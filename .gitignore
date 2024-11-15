@@ -1,0 +1,7 @@
+/DEV/*.sh
+/DEV/*.json
+/QA/*.sh
+/QA/*.json
+/PRD/*.sh
+/PRD/*.json
+ssm_mitra_mobile.xlsx
